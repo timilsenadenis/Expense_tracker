@@ -1,0 +1,10 @@
+2024-08-08 01:36:33 - admin: Registered user: Denis
+2024-08-08 01:37:07 - Denis: Added expense: 2322.000000 for food
+2024-08-08 01:37:51 - Denis: Added expense: 344.000000 for Grocery
+2024-08-08 01:38:47 - admin: Registered user: lokesh
+2024-08-08 01:39:08 - lokesh: Added expense: 2332.000000 for clothes
+2024-08-08 01:40:03 - admin: Viewed activity log
+2024-08-08 01:40:38 - admin: Viewed activity log
+2024-08-08 02:09:03 - admin: Viewed transactions for user: lokesh
+2024-08-08 02:09:22 - admin: Registered user: sagar
+2024-08-08 02:10:17 - sagar: Added expense: 2342.000000 for Food
